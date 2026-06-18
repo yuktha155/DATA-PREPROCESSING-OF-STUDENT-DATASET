@@ -56,19 +56,6 @@ Pandas
 NumPy
 Scikit-learn
 
-Project Structure
-Student-Dataset-Preprocessing/
-│
-├── Student_Dataset_Preprocessing.ipynb
-├── student_dataset.csv
-├── README.md
-├── requirements.txt
-└── screenshots/
-    ├── 01_dataset_loaded.png
-    ├── 02_missing_values.png
-    ├── 03_after_fillna.png
-    ├── 04_encoding.png
-    └── 05_train_test_split.png
 
 Workflow
 Dataset Exploration
